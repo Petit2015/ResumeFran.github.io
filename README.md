@@ -1,5 +1,3 @@
-# ResumeFran.github.io
-
 <!DOCTYPE html>
 <html>
 <head>
