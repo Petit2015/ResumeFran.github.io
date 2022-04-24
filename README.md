@@ -1,4 +1,5 @@
 # ResumeFran.github.io
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,9 +45,6 @@
 		<li>Interacted and communicated with patients and families to create a comfortable, caring environment</li>
 	</ul>
 	<br>
-
-
-</ul>
 
 <h3>Education</h3><br>
 
