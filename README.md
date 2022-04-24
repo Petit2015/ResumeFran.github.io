@@ -20,9 +20,9 @@
 	Cardiac Telemetry Unit <br>
 	Jan 2022-Feb 2022 <br>
 <ul>
-	<li> Record and monitor patient's vitals</li>
+	<li>Record and monitor patient's vitals</li>
 	<li>Collaborated with physicians and medical personels to assure patients' care plans are adhered to and adjusted as needed</li>
-	<li> Delivered direct patient care, including stabilizing patients and identifying treatment options</li>
+	<li>Delivered direct patient care, including stabilizing patients and identifying treatment options</li>
 </ul>
 	<br>
 
@@ -30,9 +30,9 @@
 	Trauma Stepdown Unit <br>
 	Mar 2021- Jan 2022<br>
 	<ul>
-		<li> Assessed and managed multiple wounds, administered medications and aided doctors in medical practice</li>
+		<li>Assessed and managed multiple wounds, administered medications and aided doctors in medical practice</li>
 		<li>Strong understanding of pre-and post-operative patients, trauma victims and medical related illnesses</li>
-		<li>Delegated tasks to appropriate nursing staff  </li>
+		<li>Delegated tasks to appropriate nursing staff</li>
 	</ul>
 	<br>
 
@@ -64,7 +64,7 @@ Aug 2011- Jun 2015<br>
 	West Palm Beach,FL
 	<br>
 	(754)610-0313 <br>
-	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"target=_blank> Linkedin Profile </a>
+	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"target=_blank>Linkedin Profile</a>
 </p>
 </body>
 </html>
