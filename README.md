@@ -3,7 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title> Frandeline Petit</title>
 </head>
 <h1>Frandeline Petit</h1>
 <h2>RN to Tech Resume</h2>
