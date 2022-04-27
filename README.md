@@ -61,7 +61,7 @@ Aug 2011- Jun 2015<br>
 	West Palm Beach,FL
 	<br>
 	(754)610-0313 <br>
-	<a href="http:www.linkedin.com/in/frandeline-petit-567347229" target=_"blank" > Linkedin Profile </a>
+	<a href="http:www.linkedin.com/in/frandeline-petit-567347229" target="_blank" > Linkedin Profile </a>
 </p>
 </body>
 </html>
