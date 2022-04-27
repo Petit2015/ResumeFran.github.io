@@ -41,14 +41,14 @@ Frandeline Petit
 		<li>Efficient time management skills</li>
 		<li>Interacted and communicated with patients and families to create a comfortable, caring environment</li>
 	</ul>
-	</br>
+	<br>
 
 	<h3><big>Education</big></h3><br>
 
 	<big>Florida Atlantic University</big> <br>
 Bachelor of Science in Nursing<br>
 Aug 2015- May 2019<br>
-</br>
+<br>
 <big>Deerfield Beach High School</big> <br>
 High School Diploma<br>
 Aug 2011- Jun 2015<br>
