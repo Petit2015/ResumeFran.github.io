@@ -11,7 +11,7 @@ Frandeline Petit
 <p>
 	Hello Everyone! My name is Frandeline Petit. I am a registered nurse for almost three years now. Currently I have an interest in the computer science and plan on pursuing it. Although I know nothing about the field, I am extremely excited about submerging myself into it. <Br>  I know it won't be easy to learn but I know I am up for the challenge. I can't wait to see what I am capable of creating. 
 </p>
-<h3> Experience</h3>
+	<h3><big> Experience</big></h3>
 
 	<big>University of Miami</big><br>
 	Cardiac Telemetry Unit <br>
@@ -43,19 +43,19 @@ Frandeline Petit
 	</ul>
 	</br>
 
-<h3>Education</h3><br>
+	<h3><big>Education</big></h3><br>
 
-Florida Atlantic University <br>
+	<big>Florida Atlantic University</big> <br>
 Bachelor of Science in Nursing<br>
 Aug 2015- May 2019<br>
 </br>
-Deerfield Beach High School <br>
+<big>Deerfield Beach High School</big> <br>
 High School Diploma<br>
 Aug 2011- Jun 2015<br>
 
 <hr>
 
-<p>
+<p style= "color: purple">
 	Petit.Frandeline@gmail.com
 	<br>
 	West Palm Beach,FL
